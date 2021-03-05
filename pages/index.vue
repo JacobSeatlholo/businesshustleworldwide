@@ -10,14 +10,14 @@
       </h2>
       <div class="links">
         <a
-          href="https://nuxtjs.org/"
+          href="https://bhhome.vercel.app"
           target="_blank"
           class="button--green"
         >
           Home
         </a>
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://bhhome.vercel.app/docs/doc1.html"
           target="_blank"
           class="button--grey"
         >
