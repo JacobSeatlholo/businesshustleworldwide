@@ -33,7 +33,7 @@ import Logo from '~/components/BHW logo_yt.svg'
 
 export default {
   components: {
-    Logo
+    BHW logo_yt.svg
   }
 }
 </script>
