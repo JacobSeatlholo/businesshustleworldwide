@@ -29,7 +29,7 @@
 </template>
 
 <script>
-import Logo from '~/components/BHW logo_yt.svg'
+import Logo from '~/components/Logo.vue'
 
 export default {
   components: {
