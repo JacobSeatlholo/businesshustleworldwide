@@ -1,14 +1,6 @@
 # Nuxt.js Example
 
-This directory is a brief example of a [Nuxt.js](https://nuxtjs.org) app that can be deployed with Vercel and zero configuration.
-
-## Deploy Your Own
-
-Deploy your own Nuxt.js project with Vercel.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/vercel/tree/master/examples/nuxtjs)
-
-_Live Example: https://nuxtjs.now-examples.now.sh_
+This directory is a brief example of a [Nuxt.js](https://nuxtjs.org).
 
 ### How We Created This Example
 
