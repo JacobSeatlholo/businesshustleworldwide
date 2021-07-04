@@ -10,14 +10,14 @@
       </h2>
       <div class="links">
         <a
-          href="https://bhw.vercel.app"
+          href="https://businesshustleworldwideltd.vercel.app"
           target="_blank"
           class="button--green"
         >
           Home
         </a>
         <a
-          href="https://bhw.vercel.app/docs/doc1"
+          href="https://businesshustleworldwideltd.vercel.app/docs/doc1"
           target="_blank"
           class="button--grey"
         >
