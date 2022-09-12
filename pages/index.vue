@@ -10,7 +10,7 @@
       </h2>
       <div class="links">
         <a
-          href="https://businesshustleworldwideltd.vercel.app"
+          href="https://businesshustle-af43.vercel.app"
           target="_blank"
           class="button--green"
         >
