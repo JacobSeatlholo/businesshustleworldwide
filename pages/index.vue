@@ -21,7 +21,7 @@
           target="_blank"
           class="button--grey"
         >
-         BH Task Manager Login
+         Login
         </a>
       </div>
     </div>
