@@ -17,11 +17,11 @@
           Home
         </a>
         <a
-          href="https://businesshustleworldwideltd.vercel.app/docs/doc1"
+          href="https://bh-projectmanager.bubbleapps.io/?debug_mode=true"
           target="_blank"
           class="button--grey"
         >
-         Resources
+         BH Task Manager Login
         </a>
       </div>
     </div>
