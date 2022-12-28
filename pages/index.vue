@@ -17,11 +17,11 @@
           Home
         </a>
         <a
-          href="https://app.businesshustle.co.za/"
+          href="https://chat-businesshustle.vercel.app/"
           target="_blank"
           class="button--grey"
         >
-         Login
+         AI Chatbot
         </a>
       </div>
     </div>
