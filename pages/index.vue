@@ -17,7 +17,7 @@
           Home
         </a>
         <a
-          href="https://app.businesshustle.co.za/"
+          href="https://app.businesshustle.co.za"
           target="_blank"
           class="button--grey"
         >
