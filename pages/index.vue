@@ -21,7 +21,7 @@
           target="_blank"
           class="button--grey"
         >
-         Sign up 
+         App login 
         </a>
       </div>
     </div>
